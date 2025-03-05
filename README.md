@@ -128,6 +128,5 @@ Esse projeto é livre para uso acadêmico e educacional.
 
 Caso queira entrar em contato ou tirar dúvidas:
 
-- 📧 Email: seu-email@exemplo.com
-- 🔗 LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
+- 📧 Email: adrijikal@gmail.com
 
